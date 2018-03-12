@@ -1,0 +1,110 @@
+#background {
+  background: #D3D3D3;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#title{
+  position: absolute;
+    top: 1%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+#pole1{
+  background: #000000;
+  width: 300px;
+  height: 2px;
+  position: absolute;
+
+  left: 100px;
+  top: 350px;
+}
+#pole2{
+  background: #000000;
+  width: 2px;
+  height: 200px;
+  position: absolute;
+
+  left: 150px;
+  top: 150px;
+}
+#pole3{
+  background: #000000;
+  width: 100px;
+  height: 2px;
+  position: absolute;
+
+  left: 150px;
+  top: 150px;
+}
+#pole4{
+  background: #000000;
+  width: 2px;
+  height: 25px;
+  position: absolute;
+
+  left: 250px;
+  top: 150px;
+}
+#let1{
+  background: #000000;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+
+  left: 50px;
+  top: 450px;
+}
+#let2{
+  background: #000000;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+
+  left: 120px;
+  top: 450px;
+}
+#let3{
+  background: #000000;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+
+  left: 190px;
+  top: 450px;
+}
+#let4{
+  background: #000000;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+
+  left: 260px;
+  top: 450px;
+}
+#let5{
+  background: #000000;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+
+  left: 330px;
+  top: 450px;
+}
+#let6{
+  background: #000000;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+
+  left: 400px;
+  top: 450px;
+}
+.container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
