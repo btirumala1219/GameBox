@@ -3,6 +3,12 @@
 var word = 'BISHOP';
 var wordarray = word.split("");
 
+for(var k = 0; k<6; k++){
+  var idnum = k+1;
+  var id = 'l'+idnum;
+  console.log(id);
+  document.getElementById(id).style.visibility = "hidden";
+}
 
 function createSprite(element, x, y, w, h) {
   var result = new Object();
@@ -29,8 +35,15 @@ function showSprites() {
 }
 
 function gotWordRight(index){
-
+  showLetter(index);
   console.log("CORRECT");
+  var idnum = index+1;
+  var id = 'l'+idnum;
+  document.getElementById(id).style.visibility = "visible";
+}
+
+function showLetter(index) {
+
 }
 
 function toggleKey(keyCode) {
