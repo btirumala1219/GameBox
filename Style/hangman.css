@@ -13,6 +13,15 @@
     text-align: center;
     font-size: 18px;
 }
+#title1{
+  position: absolute;
+    top: 1%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    visibility: hidden;
+}
+
 #correct{
   position: absolute;
   color: green;
