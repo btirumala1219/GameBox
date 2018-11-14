@@ -8,6 +8,4 @@ Objective of game is to move character around screen while launching lasers to t
 ## Hangman
 This is a one player hangman game made from implementing HTML/CSS/JavaScript that works as the normal game would. You are meant to press a letter key to try and guess what character is next in the series of the word.
 
-TODO: add more versions
-
 
